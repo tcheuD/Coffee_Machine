@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Problems/Project constants and methods/out/
+/Problems/Project constants and methods/out/production/classes/
